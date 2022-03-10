@@ -1,0 +1,6 @@
+﻿  Kaynak.cpp
+  NighttimeUFO.cpp
+C:\Users\adminyus\source\repos\NighttimeUFO\NighttimeUFO\NighttimeUFO.cpp(249,26): warning C4838: 'int ile 'double arasında dönüştürme bir daraltma dönüştürmesi gerektiriyor
+C:\Users\adminyus\source\repos\NighttimeUFO\NighttimeUFO\NighttimeUFO.cpp(470,35): warning C4326: 'main' öğesinin dönüş türü 'int' olmalıdır, 'void' değil
+  Kod Üretiliyor...
+  NighttimeUFO.vcxproj -> C:\Users\adminyus\source\repos\NighttimeUFO\Debug\NighttimeUFO.exe
